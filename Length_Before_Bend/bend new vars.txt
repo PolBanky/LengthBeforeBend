@@ -1,0 +1,16 @@
+// *** D A T A  ***
+        Profile profile = Profile.channel;
+        double H = 0.0;   // Высота стенки профиля
+        double L = 0.0;   // Длина полок профиля (одинаковые)
+        double S = 0.0;   // Толщина листа профиля
+        double R = 0.0;   // Радиус изгиба профиля
+        double H_mid = 0.0; // Высота стенки профиля по средней линии
+        double L_mid = 0.0; // Длина полок профиля по средней линии
+        double half_S = 0.0; // Половина толщины листа
+        double R_mid = 0.0; // Радиус по средней линии
+        double GeneralLength = 0.0; // Длина развертки
+        double edge_bendLine = 0.0; // Расстояние от края до линии сгиба развертки
+        double H_mid_not_direct = 0.0, L_mid_not_direct = 0.0;  // сумма толщин и радиусов по стенке и полкам
+        double H_mid_direct = 0.0, double L_mid_direct = 0.0;   
+        double arc_mid_Length = 0.0;
+        double halfArc_mid_Length = 0.0;

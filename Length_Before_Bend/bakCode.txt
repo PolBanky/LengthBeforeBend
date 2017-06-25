@@ -1,0 +1,15 @@
+﻿// void button_RUN_Click(object sender, EventArgs e)
+//if ((TBox_1.val == 0) || (TBox_2.val == 0) || (TBox_3.val == 0) || (TBox_4.val == 0))
+            //{
+            //    Result_1.BackColor = System.Drawing.Color.LightPink;
+            //    Result_1.Text = "Error !\ndata can't == 0";
+            //    return;
+            //}   // end of - if ((TBox_1.val == 0) || (TBox_2.val == 0) || (TBox_3.val == 0) || (TBox_4.val == 0))
+
+
+			//double H = 0.0; // Высота стенки профиля - снаружи
+        //double L = 0.0; // Длина полок профиля (одинаковые) - снаружи
+        //double S = 0.0; // Толщина листа профиля
+        //double R = 0.0; // Радиус изгиба профиля - внутри
+		//double S_half = 0.0;	// Половина толщины листа
+		//double R_mid = 0.0; // Радиус по средней линии
